@@ -1,0 +1,74 @@
+[
+	{
+		"articulo": "Aceite Cada Dia",
+		"codigo": 23365,
+		"rubro": "Aceites",
+		"foto": "1.jpg",
+		"esPromocion": true,
+		"fechaVencimiento": "22-03-2021",
+		"preciosRelevados": [173, 150, 179, 190, 110, 180, 160, 154]
+	},
+	{
+		"articulo": "Biscochuelo Aguila",
+		"codigo": 22654,
+		"rubro": "Postres",
+		"foto": "2.jpg",
+		"esPromocion": false,
+		"fechaVencimiento": "11-10-2021",
+		"preciosRelevados": [146, 147, 147, 138, 150, 148, 137, 158]
+	},
+	{
+		"articulo": "Arroz Don Marcos",
+		"codigo": 23987,
+		"rubro": "Almacen",
+		"foto": "3.jpg",
+		"esPromocion": true,
+		"fechaVencimiento": "12-09-2021",
+		"preciosRelevados": [66, 67, 68, 68, 65, 70, 76, 61]
+	},
+	{
+		"articulo": "Azucar Ledesma",
+		"codigo": 24654,
+		"rubro": "Almacen",
+		"foto": "4.jpg",
+		"esPromocion": false,
+		"fechaVencimiento": "14-08-2021",
+		"preciosRelevados": [59, 59, 60, 65, 63, 58, 61, 59]
+	},
+	{
+		"articulo": "Budin de Chocolate Pozo",
+		"codigo": 23114,
+		"rubro": "Postres",
+		"foto": "5.jpg",
+		"esPromocion": true,
+		"fechaVencimiento": "16-07-2021",
+		"preciosRelevados": [48, 47, 47, 49, 48, 50, 51, 55]
+	},
+	{
+		"articulo": "Nescafe Dolca",
+		"codigo": 23147,
+		"rubro": "Almacen",
+		"foto": "6.jpg",
+		"esPromocion": true,
+		"fechaVencimiento": "23-06-2021",
+		"preciosRelevados": [181, 186, 187, 176, 196, 177, 167, 186]
+	},
+	{
+		"articulo": "Atun en aceite Caracas",
+		"codigo": 23258,
+		"rubro": "Conservas",
+		"foto": "7.jpg",
+		"esPromocion": false,
+		"fechaVencimiento": "21-05-2021",
+		"preciosRelevados": [126, 125, 115, 117, 127, 128, 119, 127]
+	},
+	{
+		"articulo": "Servilletas Elegante",
+		"codigo": 23369,
+		"rubro": "Limpieza",
+		"foto": "8.jpg",
+		"esPromocion": false,
+		"fechaVencimiento": "02-04-2021",
+		"preciosRelevados": [46, 48, 47, 49, 56, 58, 47, 56]
+	}
+]
